@@ -1,0 +1,3 @@
+config.mysql=http://pro.mysql.com
+config.redis=http://pro.redis.com
+config.mongodb=http://pro.mongodb.com
